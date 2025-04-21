@@ -826,7 +826,7 @@ plt.bar(x, height=y)
 
 
     
-![png](project_joseon_files/project_joseon_34_1.png)
+![Image](/assets/images/바1.png)
     
 
 
@@ -872,7 +872,7 @@ plt.bar(x, height=y)
 
 
     
-![png](project_joseon_files/project_joseon_42_1.png)
+![Image](/assets/images/바2.png)
     
 
 

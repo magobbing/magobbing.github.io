@@ -23,7 +23,7 @@ categories: [프로젝트]
 
 <br>
 
-```r
+```
 library(RSelenium)
 library(stringr)
 library(readr)
@@ -208,7 +208,7 @@ for (cat_id in category_ids) {
 <br>
 
 
-```r
+```
 library(RSelenium)
 library(stringr)
 library(readr)
@@ -329,7 +329,7 @@ for (cat_id in category_ids) {
 <br>
 
 
-```r
+```
 library(rvest)
 library(stringr)
 library(fs)

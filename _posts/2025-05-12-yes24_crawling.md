@@ -22,7 +22,7 @@ categories: [프로젝트]
 <summary>코드 보기</summary>
 
 ```r
-"library(RSelenium)
+library(RSelenium)
 library(stringr)
 library(readr)
 library(rvest)
@@ -202,7 +202,7 @@ for (cat_id in category_ids) {
 #### 📎 코드
 <details>
 <summary>코드 보기</summary>
-```{r}
+```r
 library(RSelenium)
 library(stringr)
 library(readr)
@@ -318,7 +318,7 @@ for (cat_id in category_ids) {
 </details>
 📎 코드 - 링크 통해 책 HTML 저장
 <details> <summary>코드 보기</summary>
-```{r}
+```r
 library(rvest)
 library(stringr)
 library(fs)

@@ -21,6 +21,8 @@ categories: [프로젝트]
 <details>
 <summary>코드 보기</summary>
 
+<br>
+
 ```r
 library(RSelenium)
 library(stringr)
@@ -202,6 +204,10 @@ for (cat_id in category_ids) {
 #### 📎 코드
 <details>
 <summary>코드 보기</summary>
+  
+<br>
+
+
 ```r
 library(RSelenium)
 library(stringr)
@@ -317,7 +323,12 @@ for (cat_id in category_ids) {
 ```  
 </details>
 📎 코드 - 링크 통해 책 HTML 저장
-<details> <summary>코드 보기</summary>
+<details> 
+<summary>코드 보기</summary>
+  
+<br>
+
+
 ```r
 library(rvest)
 library(stringr)

@@ -23,7 +23,7 @@ categories: [프로젝트]
 
 <br>
 
-```
+<pre><code class="language-r">
 library(RSelenium)
 library(stringr)
 library(readr)
@@ -182,7 +182,8 @@ for (cat_id in category_ids) {
     }
   }
 }
-```
+</code></pre>
+
 </details>
 
 ### 2. Rselenium으로 여러 창 띄워서 병렬 크롤링
@@ -208,7 +209,7 @@ for (cat_id in category_ids) {
 <br>
 
 
-```
+<pre><code class="language-r">
 library(RSelenium)
 library(stringr)
 library(readr)
@@ -320,7 +321,8 @@ for (cat_id in category_ids) {
   }
   
 } # for 끝
-```  
+</code></pre>
+
 </details>
 📎 코드 - 링크 통해 책 HTML 저장
 <details> 
@@ -329,7 +331,7 @@ for (cat_id in category_ids) {
 <br>
 
 
-```
+<pre><code class="language-r">
 library(rvest)
 library(stringr)
 library(fs)
@@ -415,5 +417,6 @@ for (cat_id in category_ids) {
     }
   }
 }
-```
+</code></pre>
+
 </details>
